@@ -3,7 +3,7 @@ Potencial para um crud
 
 
 # Objetivo do teste
-Desenvolver uma API JSON RESTful em ​PHP​, que utilize os métodos (​GET​, ​POST​, ​PUT​,
+Desenvolver uma API JSON REST na *linguagem a sua escolha*, que utilize os métodos (​GET​, ​POST​, ​PUT​,
 DELETE​).
 
 # Especificação

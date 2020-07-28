@@ -64,7 +64,7 @@ UI/UX fica a critério do desenvolvedor porém deverá ser SPA (single-page
 application) e atender o consumo de todos endpoints da API 
 
 # Entrega
-A aplicação deve possuir um script para geração das tabelas no banco de dados
+A aplicação deve rodar em docker, possuir um script para geração das tabelas no banco de dados e TESTES UNITÁRIOS.
 
 Após finalizado enviar os arquivos em resposta ao e-mail com explicação de como
 configurar e/ou executar scripts necessários, ou enviar link do projeto no github com
